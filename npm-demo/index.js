@@ -44,3 +44,6 @@ console.log(result);
 
 // npm i [package-name] --save-dev : dev dependency
 // npm unintall(un) [package-name] : uninstall package
+
+// All above commands works for Global packages
+// just use -g
